@@ -5,13 +5,14 @@
   <head>
     <title>Profile - Contact</title>
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/mainstyle.css">
   </head>
 
   <body>
 
     <div class="title">
       <header>
-        <h1><u>Contact</u></h1>
+        <h1 id = "title"><u>Contact</u></h1>
         <h3>모든 협업과 건설적인 교류 언제든 환영합니다.</h3>
         <h5>* 전 그리 전문가가 아니랍니다. *</h5>
       </header>
@@ -20,6 +21,7 @@
     <hr>
 
     <div>
+      <input id ="daynightBtn" type="button" value="Night Mode" onclick='daynight()'>
       <nav>
         <ul>
           <p>
@@ -68,16 +70,7 @@
 
     <hr>
 
-    <section>
-      <article>
-        <h3>종합 결과물</h3>
-        <ul>
-          <p>
-            본 웹페이지는 22.08.10 ~ 08.13 까지의 html 기본 문법 학습내용을 복습하기 위해 만들어졌습니다. <br>
-            오직 HTML만 사용되어 제작되었기 때문에 가독성이 떨어진다는 점 양해바랍니다.<br>
-          </p>
-        </ul>
-      </article>
+
 
     </section>
     <footer>
@@ -95,8 +88,11 @@
         })();
         </script>
         <!--End of Tawk.to Script-->
-      <h5>작성일 : 2022-08-13 10:00</h5>
+      <script src="js/function/date.js"></script>
     </footer>
+    <script type="text/javascript" src="js/function/day_night.js"></script>
+    <script type="text/javascript" src="js/var/mainvar.js"></script>
+
   </body>
 
 </html>

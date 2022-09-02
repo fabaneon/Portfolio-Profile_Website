@@ -5,13 +5,14 @@
   <head>
     <title>Profile - Career</title>
     <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/mainstyle.css">
   </head>
 
   <body>
 
     <div class="title">
       <header>
-        <h1><u>My Career</u></h1>
+        <h1 id = "title"><u>My Career</u></h1>
         <h3>년도별로 참여했던 주요 프로젝트와 직책을 열람해보세요.</h3>
         <h5>* 작은 규모의 프로젝트는 생략하였습니다. *</h5>
       </header>
@@ -20,6 +21,8 @@
     <hr>
 
     <div>
+      <input id ="daynightBtn" type="button" value="Night Mode" onclick='daynight()'>
+
       <nav>
         <ul>
           <p>
@@ -103,16 +106,7 @@
 
     <hr>
 
-    <section>
-      <article>
-        <h3>종합 결과물</h3>
-        <ul>
-          <p>
-            본 웹페이지는 22.08.10 ~ 08.13 까지의 html 기본 문법 학습내용을 복습하기 위해 만들어졌습니다. <br>
-            오직 HTML만 사용되어 제작되었기 때문에 가독성이 떨어진다는 점 양해바랍니다.<br>
-          </p>
-        </ul>
-      </article>
+
 
     </section>
     <footer>
@@ -135,8 +129,11 @@
       })();
       </script>
       <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-      <h5>작성일 : 2022-08-13 10:00</h5>
+      <script src="js/function/date.js"></script>
     </footer>
+    <script type="text/javascript" src="js/function/day_night.js"></script>
+    <script type="text/javascript" src="js/var/mainvar.js"></script>
+
   </body>
 
 </html>
