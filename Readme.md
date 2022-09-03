@@ -14,9 +14,9 @@
   href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8" 
   title="위키피디아">
   완결형 위키페이지
-  </a>
+  </a> 
   
-  + 
+  그리고
   
   <a 
   target="_blank" 
