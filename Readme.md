@@ -1,6 +1,6 @@
 <h1><a href="https://fabaneon.github.io/Portfolio-Profile_Website/">Web-Portfolio-Profile</a></h1>
 
-# FrontEnd Developing 의 종합형 결과물
+## FrontEnd Developing 의 종합형 결과물
   
   이 프로젝트는 제가 새로운 개념을 학습할때마다 단계별로 장기간 업데이트됩니다.
   
