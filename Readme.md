@@ -9,7 +9,23 @@
   
 # 목표
   
-  저를 완벽히 표현하고 설명할 수 있는 완결형 위키페이지 + 반응형 웹사이트의 종합물입니다.
+  저를 완벽히 표현하고 설명할 수 있는 <a 
+  target = "_blank"
+  href="https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:%EB%8C%80%EB%AC%B8" 
+  title="위키피디아">
+  완결형 위키페이지
+  </a>
+  
+  + 
+  
+  <a 
+  target="_blank" 
+  href="https://www.youtube.com/watch?v=jo8VGpJzQEE&t=284s" 
+  title="Interactive Developer Youtube">
+  
+  반응형 웹사이트</a>
+  
+  의 종합물입니다.
   
   이를 위해 언어로는 HTML -> JavaScript -> Css 등을 공부해야하며
   
