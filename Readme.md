@@ -1,4 +1,4 @@
-<h1><a href="https://fabaneon.github.io/Portfolio-Profile_Website/">Web-Portfolio-Profile</a></h1>
+<h1><a target="_blank" href="https://fabaneon.github.io/Portfolio-Profile_Website/">Web-Portfolio-Profile</a></h1>
 
 ## FrontEnd Developing 의 종합형 결과물
   
