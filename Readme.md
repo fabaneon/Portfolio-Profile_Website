@@ -28,9 +28,9 @@
   
   반응형 웹사이트</a>의 종합물입니다.
   
-  이를 위해 언어로는 <href="https://github.com/fabaneon/HTML_STUDY">HTML</a> -> <a href="https://github.com/fabaneon/JavaScript_Study">JavaScript</a> -> Css 등을 공부해야하며
+  이를 위해 언어로는 <a href="https://github.com/fabaneon/HTML_STUDY">HTML</a> -> <a href="https://github.com/fabaneon/JavaScript_Study">JavaScript</a> -> Css 등을 공부해야하며
   
-  부가 지식으로는 <a href="https://github.com/fabaneon/React-study">React</a> -> p5.js -> Node.js 그리고 수학지식인 삼각함수와 미적분.
+  부가 지식으로는 <a href="https://github.com/fabaneon/React-study"> React </a> -> p5.js -> Node.js 그리고 수학지식인 삼각함수와 미적분.
   
   마지막 도구로는 HTML5 Canvas를 공부해야합니다.
   
