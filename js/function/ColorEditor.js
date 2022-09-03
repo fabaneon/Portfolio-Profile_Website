@@ -1,4 +1,8 @@
 // 페이지 색상을 제어 목적의 객체들 입니다.
+// body : 페이지 전체의 색상
+// title : 제목의 색상
+// important : 중요한 내용 강조 색상
+
 
 const body = {
   setColor:function(color) {
@@ -62,5 +66,3 @@ let title = {
     }
   }
 };
-
-let daynightBtn = document.querySelector('#daynightBtn');
