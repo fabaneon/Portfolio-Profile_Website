@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-Profile_Website/static/css/main.c0c1138e.css",
-    "main.js": "/Portfolio-Profile_Website/static/js/main.b4495623.js",
+    "main.css": "/Portfolio-Profile_Website/static/css/main.e6e38eb2.css",
+    "main.js": "/Portfolio-Profile_Website/static/js/main.0a71a6dd.js",
     "static/js/787.4195e5fd.chunk.js": "/Portfolio-Profile_Website/static/js/787.4195e5fd.chunk.js",
     "static/media/2019_Highschool.png": "/Portfolio-Profile_Website/static/media/2019_Highschool.2802b6985260a898f056.png",
     "static/media/2021.png": "/Portfolio-Profile_Website/static/media/2021.93b5d39d33d5858d8ff1.png",
@@ -17,12 +17,12 @@
     "static/media/growup.jpg": "/Portfolio-Profile_Website/static/media/growup.7d0e8f2652a88f3f2469.jpg",
     "static/media/business_card.png": "/Portfolio-Profile_Website/static/media/business_card.9575f8bcde0e7bb8c159.png",
     "index.html": "/Portfolio-Profile_Website/index.html",
-    "main.c0c1138e.css.map": "/Portfolio-Profile_Website/static/css/main.c0c1138e.css.map",
-    "main.b4495623.js.map": "/Portfolio-Profile_Website/static/js/main.b4495623.js.map",
+    "main.e6e38eb2.css.map": "/Portfolio-Profile_Website/static/css/main.e6e38eb2.css.map",
+    "main.0a71a6dd.js.map": "/Portfolio-Profile_Website/static/js/main.0a71a6dd.js.map",
     "787.4195e5fd.chunk.js.map": "/Portfolio-Profile_Website/static/js/787.4195e5fd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0c1138e.css",
-    "static/js/main.b4495623.js"
+    "static/css/main.e6e38eb2.css",
+    "static/js/main.0a71a6dd.js"
   ]
 }
